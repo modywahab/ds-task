@@ -1,8 +1,15 @@
 # Data Positions at SCFHS
 
-## Data Visualization Specialist
-
-Thank you for your interest in our Data Visualization Specialist positions. Please create a [public tableau profile](https://public.tableau.com) with a visualization sample using [this data](https://www.ibm.com/communities/analytics/watson-analytics-blog/hr-employee-attrition/). The dataset we picked reflects the kinds of data you will be dealing with at the position. Feel free to include your past work and visualizations in your tableau portfolio as well. Please complete your visualization sample in **72 hours**. Fill [this form](https://forms.gle/dxtxxXuMLcv7QXNe8) when you are done. If you have any questions, please raise an issue on this repo.
+## Requirements
+Before you run the import sell make the following is installed in your enviroment:
+    
+    - Numpy
+    - Pandas
+    - Matplot
+    - Selenium Driver
+    - GekioDriver (For the Firefox Selenium web driver
+    - Ummaqra (For dealing with Hijri dates): `pip3 install ummalqura`
+-------------
 
 ## Data Scientist
 
