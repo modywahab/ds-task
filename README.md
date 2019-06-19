@@ -54,5 +54,5 @@ There are 3 steps:
 I have done the following data science project as part of ***Udacity's Data Scientist Nanodegree***, which I currently taking:
  - [Deep Learning Image Classifier](https://github.com/modywahab/udacity-dsnd-project_2-deep-learning-image-classifier)
  - [Identify Customer Segment](https://github.com/modywahab/udacity-dsnd-project_3-identify-customer-segments)
- - [Disaster Response Pipelines](udacity-dsnd-project_5-disaster-responce-pipline) (Not Completed yet)
+ - [Disaster Response Pipelines](https://github.com/modywahab/udacity-dsnd-project_5-disaster-response-pipeline)
 
